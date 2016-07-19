@@ -196,8 +196,5 @@
         <img src="DSC_0019.JPG" class="img-responsive" alt="image">
     </div>
 </div><!-- End row -->
-
-
-
 </body>
 </html>
