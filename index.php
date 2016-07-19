@@ -17,7 +17,7 @@
 </head>
 <body>
 <div>
-    <img src="./images/Nashik.png" class="img-responsive">
+    <img src="images/Nashik.png" class="img-responsive">
 </div>
 
 <nav class="navbar navbar-default">
@@ -49,8 +49,8 @@
 
 
 <div class="w3-content w3-section" style="width: 100%; height: 400px text-align: center;border-radius: 20px;border:1px solid #000000">
-    <img class="mySlides" align="center" src="images/sula.jpg" style="width:100%;height: 500px">
-    <img class="mySlides" align="center" src="images/Black-Grapes-On-Tree.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="sula.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="Black-Grapes-On-Tree.jpg" style="width:100%;height: 500px">
 </div>
 
 <script>
