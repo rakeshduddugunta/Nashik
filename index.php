@@ -190,10 +190,6 @@
     <div class="col-sm-8">
         <h2 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h2>
         <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">About Nasik by Rakesh Duddugunta </h3>
-
-    </div>
-    <div class="col-sm-4">
-        <img src="DSC_0019.JPG" class="img-responsive" alt="image">
     </div>
 </div><!-- End row -->
 </body>
