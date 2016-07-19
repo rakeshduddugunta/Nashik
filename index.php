@@ -43,7 +43,7 @@
     Nashik has a personality of its own due to its mythological, historical, social and cultural importance.
     The city, vibrant and active on the industrial, political, social and cultural fronts, has influenced the lives of many a great personalities.
     The river Godavari flows through the city.
-    Temples and ghats on the banks of Godavari have made Nashik one of the holiest places for Hindus all over the World
+    Temples and ghats on the banks of Godavari have made Nashik one of the holiest places for Hindus all over the World.
 </div>
 
 
@@ -185,7 +185,7 @@
 <div class="row">
     <div class="col-sm-8">
         <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h3>
-        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">      Rakesh Duddugunta </h3>
+        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> Rakesh Duddugunta </h3>
 
     </div>
 
