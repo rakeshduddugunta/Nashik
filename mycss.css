@@ -1,0 +1,97 @@
+.text{
+    width: 200px;
+}
+.footer
+{
+    font-family: 'Josefin Slab';
+    background-color: black;
+    color: white;
+}
+body{
+    background-image: url(./images/5.jpg);
+    text-align: center;
+    height:  auto;
+    width: auto;
+    border:2px;
+    border-color: black;
+}
+h1{
+    font-family: 'Josefin Slab', serif;
+    font-size: 100px;
+    font-style: normal;
+    color: white;
+}
+h2{
+    font-family: 'Josefin Slab', serif;
+}
+h3{
+    font-family: 'Josefin Slab', serif;
+    color: white;
+    font-size: 60px;
+    text-align: ;
+}
+h4{
+    font-family: 'Josefin Slab', serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.button{
+    font-family: 'Josefin Slab';
+    font-size: medium;
+    background-color: black;
+    color: palevioletred;
+    width: 90px;
+    height: 30px;
+}
+.button:hover
+{
+    -webkit-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    transform: scale(2,2);
+    color: cornsilk;
+}
+
+p
+{
+    text-align: justify;
+    font-style: normal;
+    font-family: 'Josefin Slab', serif;
+    color: #ffffff;
+}
+
+
+.me:hover
+{
+    font-family: Josefin slab,serif;
+    background-position: center;
+    //background-image: url("./images/");
+    transition: ease-in-out 0s;
+    border: 2px solid green;
+    border-radius: 10px;
+    color: #ffffff;
+}
+th{
+    font-family: Josefin slab,serif;
+    background-color: green;
+    color: #ffffff;
+}
+td{
+    font-family: Josefin slab,serif;
+    color: #ffffff;
+}
+
+.but{
+    border: 2px solid #ffffff;
+    background-color: khaki;
+    border-radius: 10px;
+    width: 100px;
+    color: #000000;
+}
+
+.zooom:hover {
+    border: 1px solid green;
+    border-radius: 50px;
+    transition: ease-in-out 1s;
+    transform: scale(3,3);
+}
