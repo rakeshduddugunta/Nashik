@@ -185,7 +185,7 @@
 <div class="row">
     <div class="col-sm-8">
         <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h3>
-        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> Rakesh Duddugunta </h3>
+        <h3 style="font-family: 'Josefin Slab',text-align: center, serif;color: #ffffff"> Rakesh Duddugunta </h3>
 
     </div>
 
