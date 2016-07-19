@@ -16,7 +16,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script
 </head>
 <body>
-<div class="container img-responsive" style="background-image: url(./images/vineyards1.jpg);text-align: center; height:  210px;width: auto;border:2px;border-color: black;vertical-align: central">
+<div class="container img-responsive" style="background-image: url(vineyards1.jpg);text-align: center; height:  210px;width: auto;border:2px;border-color: black;vertical-align: central">
     <br/>
     <br/>
     <h1 style="color: #000000;font-family: 'Josefin Slab', serif">NASHIK</h1>
@@ -39,7 +39,7 @@
 </nav>
 
 <div  style="font-family: 'Josefin Slab', serif;text-align: center;color: #ffffff">
-   Nashik is one of the most important cities of Northern Maharashtra.
+    Nashik is one of the most important cities of Northern Maharashtra.
     Nashik, in Maharashtra, is situated at a distance of 200 km from Mumbai (Bombay) as well as Pune.
     The city has become the center of attraction because of its beautiful surroundings and cool and pleasant climate.
     Nashik has a personality of its own due to its mythological, historical, social and cultural importance.
