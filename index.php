@@ -49,8 +49,8 @@
 
 
 <div class="w3-content w3-section" style="width: 100%; height: 400px text-align: center;border-radius: 20px;border:1px solid #000000">
-    <img class="mySlides" align="center" src="images/sula.jpg" style="width:100%;height: 500px">
-    <img class="mySlides" align="center" src="images/Nashik-4G-City.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="sula.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="Nashik-4G-City.jpg" style="width:100%;height: 500px">
 </div>
 
 <script>
@@ -106,7 +106,7 @@
                     Since then the city name has changed to Nashik City.</p>
             </div>
             <div class="col-sm-4">
-                <img src="images/Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
+                <img src="Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
             </div>
         </div><!-- End row -->
 
@@ -138,7 +138,7 @@
                         </p>
                 </div><!-- End row -->
                     <div class="col-sm-12" style="float: right">
-                        <img src="images/vineyards1.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
+                        <img src="vineyards1.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
                     </div>
          </div>
 
@@ -185,7 +185,7 @@
 <div class="row">
     <div class="col-sm-8">
         <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h3>
-        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">Rakesh Duddugunta </h3>
+        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">      Rakesh Duddugunta </h3>
 
     </div>
 
