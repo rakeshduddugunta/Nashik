@@ -193,7 +193,7 @@
 
     </div>
     <div class="col-sm-4">
-        <img src="Black-Grapes-On-Tree.jpg" class="img-responsive" alt="image">
+        <img src="DSC_0019.JPG" class="img-responsive" alt="image">
     </div>
 </div><!-- End row -->
 
