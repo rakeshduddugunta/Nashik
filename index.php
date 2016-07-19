@@ -53,6 +53,7 @@
 <h2 class="w3-center">Automatic Slideshow</h2>
 
 <div class="w3-content w3-section" style="max-width:500px">
+    
     <img class="mySlides" src="images/sula.jpg" style="width:100%">
     <img class="mySlides" src="images/Black-Grapes-On-Tree.jpg" style="width:100%">
 </div>
