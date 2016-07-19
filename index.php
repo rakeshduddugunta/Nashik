@@ -17,7 +17,7 @@
 </head>
 <body>
 <div>
-    <img src="images/Nashik.png" class="img-responsive">
+    <img src="Nashik.png" class="img-responsive">
 </div>
 
 <nav class="navbar navbar-default">
@@ -106,7 +106,7 @@
                     Since then the city name has changed to Nashik City.</p>
             </div>
             <div class="col-sm-4">
-                <img src="images/Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
+                <img src="Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
             </div>
         </div><!-- End row -->
 
@@ -135,7 +135,7 @@
                         </p>
                 </div><!-- End row -->
                     <div class="col-sm-12" style="float: right">
-                        <img src="images/Nashik.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
+                        <img src="Nashik.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
                     </div>
          </div>
 
@@ -169,7 +169,7 @@
 
                             </div>
                             <div class="col-sm-4">
-                                <img src="images/Nashik.jpg" class="img-responsive" alt="image">
+                                <img src="Nashik.jpg" class="img-responsive" alt="image">
                             </div>
                         </div><!-- End row -->
 
@@ -193,7 +193,7 @@
 
     </div>
     <div class="col-sm-4">
-        <img src="images/Black-Grapes-On-Tree.jpg" class="img-responsive" alt="image">
+        <img src="Black-Grapes-On-Tree.jpg" class="img-responsive" alt="image">
     </div>
 </div><!-- End row -->
 
