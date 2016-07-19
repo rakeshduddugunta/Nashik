@@ -8,7 +8,7 @@
     color: white;
 }
 body{
-    background-image: url(5.jpg);
+    background-image: url(./images/5.jpg);
     text-align: center;
     height:  auto;
     width: auto;
@@ -17,7 +17,7 @@ body{
 }
 h1{
     font-family: 'Josefin Slab', serif;
-    font-size: 60px;
+    font-size: 100px;
     font-style: normal;
     color: white;
 }
@@ -52,12 +52,12 @@ h4{
     color: cornsilk;
 }
 
-.p
+p
 {
-    border-top-style: dotted;
-    border-right-style: solid;
-    border-left-style: double;
-    border-bottom-style: dashed;
+    text-align: justify;
+    font-style: normal;
+    font-family: 'Josefin Slab', serif;
+    color: #ffffff;
 }
 
 
