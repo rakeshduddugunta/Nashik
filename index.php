@@ -49,8 +49,8 @@
 
 
 <div class="w3-content w3-section" style="width: 100%; height: 400px text-align: center;border-radius: 20px;border:1px solid #000000">
-    <img class="mySlides" align="center" src="sula.jpg" style="width:100%;height: 500px">
-    <img class="mySlides" align="center" src="Black-Grapes-On-Tree.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="images/sula.jpg" style="width:100%;height: 500px">
+    <img class="mySlides" align="center" src="images/Nashik-4G-City.jpg" style="width:100%;height: 500px">
 </div>
 
 <script>
@@ -106,7 +106,7 @@
                     Since then the city name has changed to Nashik City.</p>
             </div>
             <div class="col-sm-4">
-                <img src="Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
+                <img src="images/Rama,_Lakshman_and_Sita_at_the_Kalaram_Temple,_Nashik.%20(1).jpg" class="img-responsive" alt="image">
             </div>
         </div><!-- End row -->
 
@@ -123,19 +123,22 @@
                         <p style="font-family: 'Josefin Slab', serif;text-align: center;color: #ffffff">Nashik, called "grape capital of India"is the leading grape producer in the country,
                             with about 1.75 lakh hectare of land under grape cultivation as of December 2015.
                             produces an estimated 10 lakh metric tonne grape at about 20 metric tonne per hectare.
-                            About 8,000 acres are used for cultivation of grape wine varieties.
+                            About 8,000 acres are used for cultivation of grape wine varieties.</p>
+                        <p>
                             Nashik accounts for 55 percent of total grape export from India and 75 percent from the state of Maharashtra.
                             Nashik grape export increased from about 4,000 metric tonnes in 2003 to over 48,000 metric tonnes in 2013.
                             The export further increased to more than 65,000 metric tonnes in 2014.
                             About half of the export corresponds to the Netherlands; with Germany, United Kingdom and Belgium as the next major destinations.
                             In 2013–14, Russia and China emerged as major markets for Nashik grape
+                            </p>
+                        <p>
                             Farmers in Nashik, India’s largest onion belt, have begun to turn their back on onion cultivation and are looking at other lucrative options.
                             Seed shortage and higher prices demanded by seed companies are also forcing them to look at other crops.
                             In the next two years, Maharashtra could face a major setback in onion cultivation.
                         </p>
                 </div><!-- End row -->
                     <div class="col-sm-12" style="float: right">
-                        <img src="Nashik.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
+                        <img src="images/vineyards1.jpg" style="width: 100%;height: 300px" class="img-responsive" alt="image">
                     </div>
          </div>
 
@@ -150,47 +153,45 @@
                         </div><!-- End Page Header -->
 
                         <div class="row">
-                            <div class="col-sm-8">
+
 
                                 <p>The city is situated at the foothills of the Western Ghats mountains on the banks of the river Godavari.At 700 m (2,300 ft) above sea level,
                                     its elevation is highest among the major cities in Maharashtra and one of the highest among million plus cities in India.
                                     The Nashik Court Building is built in black stone in British Regime and the new building was inaugurated on 18 September 2005.
-                                    There are 73 courts including taluka court.
+                                    There are 73 courts including taluka court.</p>
+                                <p>
                                     According to the Census of India, 2011, Nashik had a population of 14,86,973. Males constitute 7,84,995 of the population and females 7,01,978. Out of Nashik urban population is 15,62,769 in which 8,24,641 are males and 7,38,128 are females. Nashik city had an average literacy rate of 90.96%: male literacy was 94.96%, and female literacy was 86.51%.
                                     The sex ratio is 894 per 1000 males for Nashik city. Child sex ratio is 865 girls per 1000 boys.
                                     In Nashik, 11.42% of the population is under 6 years of age.
-                                    In census year 2001 the Nashik Urban Agglomeration had a population of 11,52,326.
+                                </p>
+                                  <p> In census year 2001 the Nashik Urban Agglomeration had a population of 11,52,326.
                                     Thus it was the fourth largest urban area of Maharashtra State after Mumbai, Pune and Nagpur.
                                     The projected population of Nashik urban agglomeration
-                                    (which includes abutting urban areas like Deolali) as on 11 November 2012 is 15,62,769.[15]
-
+                                    (which includes abutting urban areas like Deolali) as on 11 November 2012 is 15,62,769.
+                                      </p>
+                                    <p>
                                     Panchavati has significant religious attributes for Hindus with a temple complex on the bend of the Godavari river, which includes Kalaram Temple.
                                     Ramkund is a holy place for Hindus. Devotees believe that a dip in this tank will fulfil their wishes. According to the epic Ramayana, Lord Rama used to bathe in this tank during his stay in Nashik.
+                                    </p>
 
-                            </div>
-                            <div class="col-sm-4">
-                                <img src="Nashik.jpg" class="img-responsive" alt="image">
-                            </div>
+
                         </div><!-- End row -->
 
 
-
-
-
-
-
-
-
-
 <div class="page-header" id="aboutauthor">
-    <h2 style="font-family: 'Josefin Slab', serif;color: #ffffff">About Author</h2>
+    <h2 style="font-family: 'Josefin Slab', serif;color: #ffffff">About Us</h2>
 </div><!-- End Page Header -->
 
 <div class="row">
     <div class="col-sm-8">
-        <h2 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h2>
-        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">About Nasik by Rakesh Duddugunta </h3>
+        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff"> MCA(Science) From MIT college Pune.</h3>
+        <h3 style="font-family: 'Josefin Slab', serif;color: #ffffff">Rakesh Duddugunta </h3>
+
     </div>
+
 </div><!-- End row -->
+
+
+
 </body>
 </html>
