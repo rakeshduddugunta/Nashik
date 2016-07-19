@@ -54,8 +54,8 @@
 
 <div class="w3-content w3-section" style="max-width:500px">
     
-    <img class="mySlides" src="images/sula.jpg" style="width:100%">
-    <img class="mySlides" src="images/Black-Grapes-On-Tree.jpg" style="width:100%">
+    <img class="mySlides" src="sula.jpg" style="width:100%">
+    <img class="mySlides" src="Black-Grapes-On-Tree.jpg" style="width:100%">
 </div>
 
 <script>
