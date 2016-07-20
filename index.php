@@ -28,7 +28,7 @@
         <div>
             <ul class="nav navbar-nav">
                 <li><a href="#1" class="me" style="color: #ffffff;font-family: 'Josefin Slab', serif">History</a> </li>
-                <li><a href="#2" class="me" style="color: #ffffff;font-family: 'Josefin Slab', serif;">Agricultar</a></li>
+                <li><a href="#2" class="me" style="color: #ffffff;font-family: 'Josefin Slab', serif;">Agriculture</a></li>
                 <li><a href="#3" class="me" style="color: #ffffff; font-family: 'Josefin Slab', serif">About City</a></li>
                 <li><a href="#4" class="me" style="color: #ffffff; font-family: 'Josefin Slab', serif">Contact Us</a></li>
             </ul>
@@ -114,7 +114,7 @@
         <div class="container">
             <section>
                 <div class="page-header" id="2">
-                    <h2 style="font-family: 'Josefin Slab', serif;text-align: center;color: #ffffff">Agricultar</h2>
+                    <h2 style="font-family: 'Josefin Slab', serif;text-align: center;color: #ffffff">Agriculture</h2>
                 </div><!-- End Page Header -->
 
                 <div class="row">
